@@ -1,0 +1,821 @@
+{
+  "name": "mani22393",
+  "normal": {
+    "tags": [
+
+    ]
+  },
+  "automatic": {
+    "cpu": {
+      "0": {
+        "cores": 2,
+        "vendor_id": "GenuineIntel",
+        "family": "205",
+        "model": "14857",
+        "stepping": "9",
+        "physical_id": "CPU0",
+        "model_name": "Intel64 Family 6 Model 58 Stepping 9",
+        "mhz": "1701",
+        "cache_size": "512 KB"
+      },
+      "total": 4,
+      "cores": 2,
+      "real": 1
+    },
+    "filesystem": {
+      "C:": {
+        "kb_size": 488224071,
+        "kb_available": 223826206,
+        "kb_used": 264397865,
+        "percent_used": 54,
+        "mount": "C:",
+        "fs_type": "ntfs",
+        "volume_name": "OS"
+      },
+      "E:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "E:",
+        "volume_name": null
+      },
+      "G:": {
+        "kb_size": 32014069,
+        "kb_available": 18186715,
+        "kb_used": 13827354,
+        "percent_used": 43,
+        "mount": "G:",
+        "fs_type": "ntfs",
+        "volume_name": "DATAPART1"
+      }
+    },
+    "kernel": {
+      "os_info": {
+        "boot_device": "\\Device\\HarddiskVolume2",
+        "build_number": "14393",
+        "build_type": "Multiprocessor Free",
+        "caption": "Microsoft Windows 10 Home",
+        "code_set": "1252",
+        "country_code": "1",
+        "creation_class_name": "Win32_OperatingSystem",
+        "cs_creation_class_name": "Win32_ComputerSystem",
+        "csd_version": null,
+        "cs_name": "MANIKANTH",
+        "current_time_zone": -300,
+        "data_execution_prevention_32_bit_applications": true,
+        "data_execution_prevention_available": true,
+        "data_execution_prevention_drivers": true,
+        "data_execution_prevention_support_policy": 2,
+        "debug": false,
+        "description": "",
+        "distributed": false,
+        "encryption_level": 256,
+        "foreground_application_boost": 2,
+        "free_physical_memory": "1142360",
+        "free_space_in_paging_files": "4831172",
+        "free_virtual_memory": "2641892",
+        "install_date": "20160804051246.000000-240",
+        "large_system_cache": null,
+        "last_boot_up_time": "20161114233307.468591-300",
+        "local_date_time": "20161118003716.136000-300",
+        "locale": "0409",
+        "manufacturer": "Microsoft Corporation",
+        "max_number_of_processes": -1,
+        "max_process_memory_size": "137438953344",
+        "mui_languages": [
+          "en-US"
+        ],
+        "name": "Microsoft Windows 10 Home|C:\\Windows|\\Device\\Harddisk0\\Partition4",
+        "number_of_licensed_users": 0,
+        "number_of_processes": 112,
+        "number_of_users": 2,
+        "operating_system_sku": 101,
+        "organization": "",
+        "os_architecture": "64-bit",
+        "os_language": 1033,
+        "os_product_suite": 768,
+        "os_type": 18,
+        "other_type_description": null,
+        "pae_enabled": null,
+        "plus_product_id": null,
+        "plus_version_number": null,
+        "portable_operating_system": false,
+        "primary": true,
+        "product_type": 1,
+        "registered_user": "Windows User",
+        "serial_number": "00326-10000-00000-AA970",
+        "service_pack_major_version": 0,
+        "service_pack_minor_version": 0,
+        "size_stored_in_paging_files": "5505024",
+        "status": "OK",
+        "suite_mask": 784,
+        "system_device": "\\Device\\HarddiskVolume4",
+        "system_directory": "C:\\Windows\\system32",
+        "system_drive": "C:",
+        "total_swap_space_size": null,
+        "total_virtual_memory_size": "11659784",
+        "total_visible_memory_size": "6154760",
+        "version": "10.0.14393",
+        "windows_directory": "C:\\Windows"
+      },
+      "name": "Microsoft Windows 10 Home",
+      "release": "10.0.14393",
+      "version": "10.0.14393  Build 14393",
+      "os": "WINNT",
+      "cs_info": {
+        "admin_password_status": 3,
+        "automatic_managed_pagefile": true,
+        "automatic_reset_boot_option": true,
+        "automatic_reset_capability": true,
+        "boot_option_on_limit": null,
+        "boot_option_on_watch_dog": null,
+        "boot_rom_supported": true,
+        "boot_status": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bootup_state": "Normal boot",
+        "caption": "MANIKANTH",
+        "chassis_bootup_state": 3,
+        "chassis_sku_number": "To be filled by O.E.M.",
+        "creation_class_name": "Win32_ComputerSystem",
+        "current_time_zone": -300,
+        "daylight_in_effect": false,
+        "description": "AT/AT COMPATIBLE",
+        "dns_host_name": "Manikanth",
+        "domain": "WORKGROUP",
+        "domain_role": 0,
+        "enable_daylight_savings_time": true,
+        "front_panel_reset_status": 3,
+        "hypervisor_present": false,
+        "infrared_supported": false,
+        "initial_load_info": null,
+        "install_date": null,
+        "keyboard_password_status": 3,
+        "last_load_info": null,
+        "manufacturer": "Dell Inc.",
+        "model": "Inspiron 5523",
+        "name": "MANIKANTH",
+        "name_format": null,
+        "network_server_mode_enabled": true,
+        "number_of_logical_processors": 4,
+        "number_of_processors": 1,
+        "oem_string_array": [
+          "Dell System",
+          "5[0003]",
+          "13[P35G]",
+          "3[1.0]",
+          "4[1A5C]",
+          "5[0003]",
+          "7[]",
+          "8[]",
+          "9[]",
+          "10[A05]",
+          "11[]",
+          "12[]",
+          "13[P35G]",
+          "14[0]",
+          "15[11]"
+        ],
+        "part_of_domain": false,
+        "pause_after_reset": "-1",
+        "pc_system_type": 2,
+        "pc_system_type_ex": 2,
+        "power_management_capabilities": null,
+        "power_management_supported": null,
+        "power_on_password_status": 3,
+        "power_state": 0,
+        "power_supply_state": 3,
+        "primary_owner_contact": null,
+        "primary_owner_name": "Windows User",
+        "reset_capability": 1,
+        "reset_count": -1,
+        "reset_limit": -1,
+        "roles": [
+          "LM_Workstation",
+          "LM_Server",
+          "NT"
+        ],
+        "status": "OK",
+        "support_contact_description": null,
+        "system_family": "                      ",
+        "system_sku_number": "To be filled by O.E.M.",
+        "system_startup_delay": null,
+        "system_startup_options": null,
+        "system_startup_setting": null,
+        "system_type": "x64-based PC",
+        "thermal_state": 3,
+        "total_physical_memory": "6302474240",
+        "user_name": "MANIKANTH\\Manikanth",
+        "wake_up_type": 6,
+        "workgroup": "WORKGROUP"
+      },
+      "machine": "x86_64"
+    },
+    "memory": {
+      "swap": {
+        "total": "5505024kB",
+        "free": "4831172kB"
+      },
+      "total": "6154760kB",
+      "free": "1142332kB"
+    },
+    "network": {
+      "interfaces": {
+        "0x7": {
+          "configuration": {
+            "ip_address": [
+              "192.168.0.4",
+              "fe80::201c:1ea7:4fe:ef20"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000010] Intel(R) Centrino(R) Wireless-N 2230 Driver",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": [
+              "192.168.0.1"
+            ],
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Intel(R) Centrino(R) Wireless-N 2230",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "20161118012445.000000-300",
+            "dhcp_lease_obtained": "20161118002445.000000-300",
+            "dhcp_server": "192.168.0.1",
+            "dns_domain": "rochester.rr.com",
+            "dns_domain_suffix_search_order": [
+              "rochester.rr.com"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "Manikanth",
+            "dns_server_search_order": [
+              "209.18.47.62",
+              "209.18.47.61"
+            ],
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": [
+              0
+            ],
+            "igmp_level": null,
+            "index": 10,
+            "interface_index": 7,
+            "ip_connection_metric": 50,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "60:36:DD:C4:E3:C0",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "NETwNe64",
+            "setting_id": "{24FE497D-B4AA-441D-BFA4-1340945E540D}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000010] Intel(R) Centrino(R) Wireless-N 2230 Driver",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Intel(R) Centrino(R) Wireless-N 2230 Driver",
+            "device_id": "10",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{24FE497D-B4AA-441D-BFA4-1340945E540D}",
+            "index": 10,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 7,
+            "last_error_code": null,
+            "mac_address": "60:36:DD:C4:E3:C0",
+            "manufacturer": "Intel Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Intel(R) Centrino(R) Wireless-N 2230",
+            "net_connection_id": "Wi-Fi",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "PCI\\VEN_8086&DEV_0887&SUBSYS_44628086&REV_C4\\4&8553DAB&0&00E3",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Intel(R) Centrino(R) Wireless-N 2230 Driver",
+            "service_name": "NETwNe64",
+            "speed": "130000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "MANIKANTH",
+            "time_of_last_reset": "20161114233307.468591-300"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.0.4": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.0.255",
+              "family": "inet"
+            },
+            "fe80::201c:1ea7:4fe:ef20": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "60:36:DD:C4:E3:C0": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.0.1": "90:0d:cb:11:20:81",
+            "192.168.0.2": "60:6c:66:65:ba:62",
+            "192.168.0.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0xe": {
+          "configuration": {
+            "ip_address": [
+              "192.168.56.1",
+              "fe80::cd78:e8db:576d:ac8b"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000020] VirtualBox Host-Only Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "rochester.rr.com"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "Manikanth",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 20,
+            "interface_index": 14,
+            "ip_connection_metric": 25,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "0A:00:27:00:00:0E",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VBoxNetAdp",
+            "setting_id": "{845FE9AF-07AE-4CD4-B047-904643265D5B}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000020] VirtualBox Host-Only Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "device_id": "20",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{845FE9AF-07AE-4CD4-B047-904643265D5B}",
+            "index": 20,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 14,
+            "last_error_code": null,
+            "mac_address": "0A:00:27:00:00:0E",
+            "manufacturer": "Oracle Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VirtualBox Host-Only Ethernet Adapter",
+            "net_connection_id": "VirtualBox Host-Only Network",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\NET\\0002",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VirtualBox Host-Only Ethernet Adapter",
+            "service_name": "VBoxNetAdp",
+            "speed": "1000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "MANIKANTH",
+            "time_of_last_reset": "20161114233307.468591-300"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.56.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.56.255",
+              "family": "inet"
+            },
+            "fe80::cd78:e8db:576d:ac8b": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "0A:00:27:00:00:0E": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.56.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        }
+      },
+      "default_gateway": "192.168.0.1",
+      "default_interface": "0x7"
+    },
+    "counters": {
+      "network": {
+
+      }
+    },
+    "ipaddress": "192.168.0.4",
+    "macaddress": "60:36:DD:C4:E3:C0",
+    "ip6address": "fe80::201c:1ea7:4fe:ef20",
+    "os": "windows",
+    "os_version": "10.0.14393",
+    "platform": "windows",
+    "platform_version": "10.0.14393",
+    "platform_family": "windows",
+    "uptime_seconds": 263050,
+    "uptime": "3 days 01 hours 04 minutes 10 seconds",
+    "virtualization": {
+      "systems": {
+
+      }
+    },
+    "languages": {
+      "perl": {
+        "version": "5.8.8",
+        "archname": "msys-64int"
+      },
+      "powershell": {
+        "version": "5.1.14393.206",
+        "ws_man_stack_version": "3.0",
+        "serialization_version": "1.1.0.1",
+        "clr_version": "4.0.30319.42000",
+        "build_version": "10.0.14393.206",
+        "compatible_versions": [
+          "1.0",
+          "2.0",
+          "3.0",
+          "4.0",
+          "5.0",
+          "5.1.14393.206"
+        ],
+        "remoting_protocol_version": "2.3"
+      },
+      "ruby": {
+        "platform": "i386-mingw32",
+        "version": "2.3.1",
+        "release_date": "2016-04-26",
+        "target": "i386-w64-mingw32",
+        "target_cpu": "i386",
+        "target_vendor": "w64",
+        "target_os": "mingw32",
+        "host": "i686-w64-mingw32",
+        "host_cpu": "i686",
+        "host_os": "mingw32",
+        "host_vendor": "w64",
+        "bin_dir": "C:/opscode/chefdk/embedded/bin",
+        "ruby_bin": "C:/opscode/chefdk/embedded/bin/ruby",
+        "gems_dir": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0",
+        "gem_bin": "C:/opscode/chefdk/embedded/bin/gem"
+      }
+    },
+    "chef_packages": {
+      "chef": {
+        "version": "12.15.19",
+        "chef_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.15.19-universal-mingw32/lib"
+      },
+      "ohai": {
+        "version": "8.20.0",
+        "ohai_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.20.0/lib/ohai"
+      }
+    },
+    "dmi": {
+
+    },
+    "cloud_v2": null,
+    "command": {
+
+    },
+    "hostname": "Manikanth",
+    "machinename": "MANIKANTH",
+    "fqdn": "Manikanth.rochester.rr.com",
+    "domain": "rochester.rr.com",
+    "keys": {
+      "ssh": {
+
+      }
+    },
+    "fips": {
+      "kernel": {
+        "enabled": false
+      }
+    },
+    "ohai_time": 1479447443.728172,
+    "packages": {
+      "7-Zip 16.04 (x64)": {
+        "version": "16.04",
+        "publisher": "Igor Pavlov"
+      },
+      "Git version 2.10.2": {
+        "version": "2.10.2",
+        "publisher": "The Git Development Community",
+        "installdate": "20161113"
+      },
+      "Microsoft Office 365 ProPlus - en-us": {
+        "version": "16.0.7369.2038",
+        "publisher": "Microsoft Corporation"
+      },
+      "Dell SupportAssist": {
+        "version": "1.3.6817.133",
+        "publisher": "Dell"
+      },
+      "Intel Security True Key": {
+        "version": "4.9.108.1",
+        "publisher": "Intel Security"
+      },
+      "VLC media player": {
+        "version": "2.2.4",
+        "publisher": "VideoLAN"
+      },
+      "VMware Horizon Client": {
+        "version": "4.1.0.1487",
+        "publisher": "VMware, Inc.",
+        "installdate": "20160804"
+      },
+      "Intel(R) Rapid Storage Technology": {
+        "version": "14.5.0.1081",
+        "publisher": "Intel Corporation"
+      },
+      "Intel® RealSense™ SDK 2014 Runtime  (x64): Core": {
+        "version": "3.1.0.25181",
+        "publisher": "Intel Corporation",
+        "installdate": "20160825"
+      },
+      "Intel(R) Chipset Device Software": {
+        "version": "10.1.1.9",
+        "publisher": "Intel(R) Corporation"
+      },
+      "Office 16 Click-to-Run Licensing Component": {
+        "version": "16.0.7369.2038",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161023"
+      },
+      "Office 16 Click-to-Run Extensibility Component 64-bit Registration": {
+        "version": "16.0.7369.2038",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161023"
+      },
+      "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160825"
+      },
+      "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160825"
+      },
+      "Oracle VM VirtualBox 5.1.6": {
+        "version": "5.1.6",
+        "publisher": "Oracle Corporation",
+        "installdate": "20160918"
+      },
+      "Adobe Flash Player 23 PPAPI": {
+        "version": "23.0.0.207",
+        "publisher": "Adobe Systems Incorporated"
+      },
+      "Google Chrome": {
+        "version": "54.0.2840.99",
+        "publisher": "Google Inc.",
+        "installdate": "20160918"
+      },
+      "Kaspersky Total Security": {
+        "version": "17.0.0.611",
+        "publisher": "Kaspersky Lab",
+        "installdate": "20160908"
+      },
+      "Mozilla Firefox 50.0 (x86 en-US)": {
+        "version": "50.0",
+        "publisher": "Mozilla"
+      },
+      "Mozilla Maintenance Service": {
+        "version": "50.0.0.6152",
+        "publisher": "Mozilla"
+      },
+      "Opera Stable 41.0.2353.56": {
+        "version": "41.0.2353.56",
+        "publisher": "Opera Software"
+      },
+      "Picasa 3": {
+        "version": "3.9.141.259",
+        "publisher": "Google, Inc."
+      },
+      "TeamViewer 11": {
+        "version": "11.0.65452",
+        "publisher": "TeamViewer"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501": {
+        "version": "12.0.30501.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148": {
+        "version": "9.0.30729.4148",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160804"
+      },
+      "Realtek Card Reader": {
+        "version": "10.0.10586.31222",
+        "publisher": "Realtek Semiconduct Corp."
+      },
+      "Google Update Helper": {
+        "version": "1.3.31.5",
+        "publisher": "Google Inc.",
+        "installdate": "20160918"
+      },
+      "Private Internet Access Support Files": {
+        "version": "1.0.0.0",
+        "publisher": "Private Internet Access",
+        "installdate": "20160804"
+      },
+      "Office 16 Click-to-Run Extensibility Component": {
+        "version": "16.0.7369.2038",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161023"
+      },
+      "Office 16 Click-to-Run Localization Component": {
+        "version": "16.0.7369.2038",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161023"
+      },
+      "Chef Development Kit v0.19.6": {
+        "version": "0.19.6.1",
+        "publisher": "Chef Software, Inc.",
+        "installdate": "20161113"
+      },
+      "Adobe Refresh Manager": {
+        "version": "1.8.0",
+        "publisher": "Adobe Systems Incorporated",
+        "installdate": "20161107"
+      },
+      "Adobe Acrobat Reader DC": {
+        "version": "15.020.20042",
+        "publisher": "Adobe Systems Incorporated",
+        "installdate": "20161104"
+      },
+      "Vagrant": {
+        "version": "1.8.7",
+        "publisher": "HashiCorp",
+        "installdate": "20161113"
+      },
+      "Dell Update": {
+        "version": "1.7.1015.0",
+        "publisher": "Dell Inc.",
+        "installdate": "20160804"
+      },
+      "Skype™ 7.29": {
+        "version": "7.29.102",
+        "publisher": "Skype Technologies S.A.",
+        "installdate": "20161024"
+      }
+    },
+    "root_group": "Administrators",
+    "time": {
+      "timezone": "Eastern Standard Time"
+    },
+    "recipes": [
+
+    ],
+    "expanded_run_list": [
+
+    ],
+    "roles": [
+
+    ]
+  }
+}
